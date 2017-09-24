@@ -1,3 +1,7 @@
+/*
+  Bot Service.
+  Service for creating bot instance with functions like sending a message and setting listeners.
+ */
 const TelegramBot = require('node-telegram-bot-api')
 const token = require('./../../config/env').token
 
