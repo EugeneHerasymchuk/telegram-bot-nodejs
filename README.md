@@ -13,3 +13,4 @@ Ideas for third-party API-s:
 - weather API
 - mailing system
 - dropbox API ( send file from chat to dropbox account ) - should use authentification.
+- AI API [https://wit.ai/]
