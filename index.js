@@ -6,3 +6,5 @@
 
 // Require Bot instance.
 require('./services/BotService').initiate()
+
+require('./services/WitAiService')
